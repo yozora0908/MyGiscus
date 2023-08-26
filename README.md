@@ -1,1 +1,1 @@
-# Mygiscus
+# MyGiscus
